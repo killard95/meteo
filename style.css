@@ -1,3 +1,9 @@
 h1, p{
     text-align: center;
 }
+img {
+    width: 20em;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
